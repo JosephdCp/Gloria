@@ -1,0 +1,23 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 9 sept 2024, 17:11:42
+    Author     : DELL
+*/
+
+button {
+    background-color: #c00000;
+    color: white;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 20px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #a00000;
+}
